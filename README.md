@@ -10,14 +10,26 @@
 ### 🛠️ Maintaining Legacy Codebase  
 - Experienced in maintaining and improving legacy codebases to ensure stability and scalability.  
 
-# Welcome to My GitHub Profile! 🌟
+# 👋 Hi, I'm [Your Name]!  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+Welcome to my GitHub profile! I'm a passionate web developer with interests in web development, database management, and project management.  
 
-## 📚 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+## 🌟 About Me  
+- 🎓 Third-year degree student studying [Your Major].  
+- 💻 Technical Lead for the **Kilangsublimation.my** university project.  
+- 🌱 Currently exploring advanced web development and data analysis.  
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+---
 
+## 📊 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+## 🚀 Let's Connect!  
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
