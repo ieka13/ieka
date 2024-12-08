@@ -10,7 +10,7 @@
 ### 🛠️ Maintaining Legacy Codebase  
 - Experienced in maintaining and improving legacy codebases to ensure stability and scalability.  
 
-# 👋 Hi, I'm [Your Name]!  
+# 👋 Hi, I'm ATIKAH HUSNA!  
 
 Welcome to my GitHub profile! I'm a passionate web developer with interests in web development, database management, and project management.  
 
