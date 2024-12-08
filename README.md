@@ -10,3 +10,14 @@
 ### 🛠️ Maintaining Legacy Codebase  
 - Experienced in maintaining and improving legacy codebases to ensure stability and scalability.  
 
+# Welcome to My GitHub Profile! 🌟
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📚 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
